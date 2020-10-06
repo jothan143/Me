@@ -5,3 +5,6 @@
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-green?style=flat-square&logo=instagram)]
